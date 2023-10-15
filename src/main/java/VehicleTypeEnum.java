@@ -1,7 +1,5 @@
-import lombok.EqualsAndHashCode;
-
-public enum VehicleType {
-    HATHBACK,
+public enum VehicleTypeEnum {
+    HATCHBACK,
     SEDAN,
     SUV
 }
